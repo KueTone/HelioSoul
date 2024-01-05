@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "HelioSoul", "HelioSoul\HelioSoul.njsproj", "{E871B432-3200-4D94-940E-D41678DED34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E871B432-3200-4D94-940E-D41678DED34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E871B432-3200-4D94-940E-D41678DED34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E871B432-3200-4D94-940E-D41678DED34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E871B432-3200-4D94-940E-D41678DED34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E0347E-9E73-47AE-97BD-BDEFBCB8D970}
+	EndGlobalSection
+EndGlobal
